@@ -1,22 +1,27 @@
 // App.js
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'; // Import Routes
+import { HashRouter as Router, Link, Route, Routes } from 'react-router-dom'; // Import Routes
 import AdminPage from './components/AdminPage';
 import PublicPage from './components/PublicPage';
 import TestimonialSubmission from './components/TestimonialSubmission';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        {' '}
-        {/* Use Routes */}
-        <Route path='/admin' element={<AdminPage />} /> {/* Use element prop */}
-        <Route path='/public' element={<PublicPage />} />
-        <Route path='/submit' element={<TestimonialSubmission />} />
-        <Route path='/' element={<PublicPage />} /> {/* Default route */}
-      </Routes>
-    </Router>
+    <div>
+      <Router>
+        <Routes>
+          {' '}
+          {/* Use Routes */}
+          <Route expact path='/admin' element={<AdminPage />} />{' '}
+          {/* Use element prop */}
+          <Route expact path='/public' element={<PublicPage />} />
+          <Route expact path='/submit' element={<TestimonialSubmission />} />
+          <Route expact path='/' element={<PublicPage />} />{' '}
+          {/* Default route */}
+        </Routes>
+      </Router>
+    </div>
   );
 }
 

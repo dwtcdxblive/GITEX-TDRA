@@ -19,7 +19,7 @@ const PublicPage = () => {
 
   return (
     <div>
-      <h1>Public Page</h1>
+      <h1 className='ms-4'>Public Page</h1>
       <ul>
         {approvedTestimonials.map((testimonial) => (
           <li key={testimonial._id}>
