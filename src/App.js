@@ -9,18 +9,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <div>
-      <Router>
-        <Routes>
-          {' '}
-          {/* Use Routes */}
-          <Route expact path='/admin' element={<AdminPage />} />{' '}
-          {/* Use element prop */}
-          <Route expact path='/public' element={<PublicPage />} />
-          <Route expact path='/submit' element={<TestimonialSubmission />} />
-          <Route expact path='/' element={<PublicPage />} />{' '}
-          {/* Default route */}
-        </Routes>
-      </Router>
+      <iframe
+        src='https://koalendar.com/e/meet-with-omaraouf?embed=true'
+        width='100%'
+        height='800px'
+        frameborder='0'
+      ></iframe>
     </div>
   );
 }
