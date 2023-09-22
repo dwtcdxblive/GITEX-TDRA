@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.49b7ef7b.css",
-    "main.js": "/static/js/main.893d9b3b.js",
-    "static/js/787.043d5565.chunk.js": "/static/js/787.043d5565.chunk.js",
-    "index.html": "/index.html",
-    "main.49b7ef7b.css.map": "/static/css/main.49b7ef7b.css.map",
-    "main.893d9b3b.js.map": "/static/js/main.893d9b3b.js.map",
-    "787.043d5565.chunk.js.map": "/static/js/787.043d5565.chunk.js.map"
+    "main.css": "/dwtcdxblive.github.io-TDRA/static/css/main.49b7ef7b.css",
+    "main.js": "/dwtcdxblive.github.io-TDRA/static/js/main.ee130c42.js",
+    "static/js/787.043d5565.chunk.js": "/dwtcdxblive.github.io-TDRA/static/js/787.043d5565.chunk.js",
+    "index.html": "/dwtcdxblive.github.io-TDRA/index.html",
+    "main.49b7ef7b.css.map": "/dwtcdxblive.github.io-TDRA/static/css/main.49b7ef7b.css.map",
+    "main.ee130c42.js.map": "/dwtcdxblive.github.io-TDRA/static/js/main.ee130c42.js.map",
+    "787.043d5565.chunk.js.map": "/dwtcdxblive.github.io-TDRA/static/js/787.043d5565.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49b7ef7b.css",
-    "static/js/main.893d9b3b.js"
+    "static/js/main.ee130c42.js"
   ]
 }
