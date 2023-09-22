@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tdra/static/css/main.49b7ef7b.css",
-    "main.js": "/tdra/static/js/main.661f6611.js",
-    "static/js/787.043d5565.chunk.js": "/tdra/static/js/787.043d5565.chunk.js",
-    "index.html": "/tdra/index.html",
-    "main.49b7ef7b.css.map": "/tdra/static/css/main.49b7ef7b.css.map",
-    "main.661f6611.js.map": "/tdra/static/js/main.661f6611.js.map",
-    "787.043d5565.chunk.js.map": "/tdra/static/js/787.043d5565.chunk.js.map"
+    "main.css": "/static/css/main.49b7ef7b.css",
+    "main.js": "/static/js/main.893d9b3b.js",
+    "static/js/787.043d5565.chunk.js": "/static/js/787.043d5565.chunk.js",
+    "index.html": "/index.html",
+    "main.49b7ef7b.css.map": "/static/css/main.49b7ef7b.css.map",
+    "main.893d9b3b.js.map": "/static/js/main.893d9b3b.js.map",
+    "787.043d5565.chunk.js.map": "/static/js/787.043d5565.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49b7ef7b.css",
-    "static/js/main.661f6611.js"
+    "static/js/main.893d9b3b.js"
   ]
 }
